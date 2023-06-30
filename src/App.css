@@ -1,0 +1,15 @@
+.container
+{
+  //text-align: center;
+}
+
+body
+{
+  font-size: initial !important;
+}
+
+.form-select,.form-control,.btn-danger
+{
+  font-size: 16px !important;
+  
+}
